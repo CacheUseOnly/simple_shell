@@ -1,0 +1,14 @@
+/.vscode
+/.~README.md
+/msg
+/myshell
+/myshell.o
+/myshell_parser.o
+/out
+/redTest
+/redTest.c
+/test
+/test.c
+/testEcho.sh
+/test_simple_input
+/tests
